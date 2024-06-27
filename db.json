@@ -20,7 +20,7 @@
 			"price": 700,
 			"description": "ProfesstionalPainter two",
 			"location": {
-				"city": "Acrra",
+				"city": "Tema",
 				"Region": "GT Accra"
 			},
 			"views": 100,
@@ -48,8 +48,8 @@
 			"price": 500,
 			"description": "ProfesstionalPainter",
 			"location": {
-				"city": "Acrra",
-				"Region": "GT Accra"
+				"city": "Kumasi",
+				"Region": "Ashanti Region"
 			},
 			"views": 1000,
 			"ratingAverage": 4.5,
