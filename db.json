@@ -1,0 +1,148 @@
+{
+	"services": [
+		{
+			"id": "1",
+			"name": "a type of service",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "2",
+			"name": "a type of service two",
+			"price": 500,
+			"description": "ProfesstionalPainter two",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 100,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 500,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "3",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "4",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "5",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "6",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "7",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "8",
+			"name": "a type of service three",
+			"price": 500,
+			"description": "ProfesstionalPainter",
+			"location": {
+				"city": "Acrra",
+				"Region": "GT Accra"
+			},
+			"views": 1000,
+			"ratingAverage": 4.5,
+			"totalRatingCount": 1000,
+			"image": "https://via.placeholder.com/150"
+		}
+	],
+	"categories": [
+		{
+			"id": "1",
+			"type": "Plumbing",
+			"icon": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "2",
+			"type": "Logistics",
+			"icon": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "3",
+			"type": "Photograph",
+			"icon": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "4",
+			"type": "Painting",
+			"icon": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "5",
+			"type": "Cleaning",
+			"icon": "https://via.placeholder.com/150"
+		},
+		{
+			"id": "6",
+			"type": "Surveying",
+			"icon": "https://via.placeholder.com/150"
+		}
+	]
+}
