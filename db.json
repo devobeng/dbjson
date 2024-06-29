@@ -9,6 +9,7 @@
 				"city": "Acrra",
 				"Region": "GT Accra"
 			},
+			"serviceType": "Office Cleaning"
 			"views": 1000,
 			"ratingAverage": 4,
 			"totalRatingCount": 1000,
@@ -27,6 +28,7 @@
 			"ratingAverage": 4.5,
 			"totalRatingCount": 300,
 			"image": "https://via.placeholder.com/150"
+			"serviceType": "Office Cleaning"
 		},
 		{
 			"id": 3,
@@ -40,6 +42,7 @@
 			"views": 1000,
 			"ratingAverage": 3,
 			"totalRatingCount": 1000,
+			"serviceType": "Office Cleaning"
 			"image": "https://via.placeholder.com/150"
 		},
 		{
@@ -54,6 +57,7 @@
 			"views": 1000,
 			"ratingAverage": 4,
 			"totalRatingCount": 1000,
+			"serviceType":"Office Cleaning"
 			"image": "https://via.placeholder.com/150"
 		},
 		{
@@ -68,6 +72,7 @@
 			"views": 1000,
 			"ratingAverage": 4.5,
 			"totalRatingCount": 1000,
+			"serviceType":"Home Cleaning"
 			"image": "https://via.placeholder.com/150"
 		},
 		{
@@ -95,6 +100,7 @@
 			},
 			"views": 1000,
 			"ratingAverage": 4.5,
+			"serviceType":"Home Cleaning"
 			"totalRatingCount": 1000,
 			"image": "https://via.placeholder.com/150"
 		},
@@ -108,6 +114,7 @@
 				"Region": "GT Accra"
 			},
 			"views": 1000,
+			"serviceType":"Home Cleaning"
 			"ratingAverage": 4.5,
 			"totalRatingCount": 1000,
 			"image": "https://via.placeholder.com/150"
