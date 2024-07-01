@@ -9,7 +9,7 @@
 				"city": "Acrra",
 				"Region": "GT Accra"
 			},
-			"category": "Plumbing",
+		        "category": "Plumbing",
 			"serviceType": "Office Cleaning",
 			"views": 1000,
 			"ratingAverage": 4,
@@ -108,6 +108,7 @@
 			"views": 1000,
 			"ratingAverage": 4.5,
 			"serviceType":"Home Cleaning",
+			"category": "Cleaning",
 			"totalRatingCount": 1000,
 			"image": "https://via.placeholder.com/150"
 		},
