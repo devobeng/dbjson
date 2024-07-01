@@ -14,6 +14,7 @@
       "views": 1000,
       "ratingAverage": 4,
       "totalRatingCount": 1000,
+      "completedService": 20,
       "image": "https://via.placeholder.com/150"
     },
     {
@@ -29,6 +30,7 @@
       "ratingAverage": 4.5,
       "totalRatingCount": 300,
       "image": "https://via.placeholder.com/150",
+       "completedService": 30,
       "category": "Painting",
       "serviceType": "Office Cleaning"
     },
@@ -46,7 +48,8 @@
       "totalRatingCount": 1000,
       "serviceType": "Office Cleaning",
       "category": "Plumbing",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 24,
     },
     {
       "id": 4,
@@ -62,7 +65,8 @@
       "totalRatingCount": 1000,
       "serviceType": "Office Cleaning",
       "category": "Plumbing",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 40,
     },
     {
       "id": 5,
@@ -78,7 +82,8 @@
       "totalRatingCount": 1000,
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 10,
     },
     {
       "id": 6,
@@ -94,7 +99,8 @@
       "totalRatingCount": 1000,
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 18,
     },
     {
       "id": 7,
@@ -110,7 +116,8 @@
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
       "totalRatingCount": 1000,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 19,
     },
     {
       "id": 8,
@@ -126,7 +133,8 @@
       "category": "Logistics",
       "ratingAverage": 4.5,
       "totalRatingCount": 1000,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/150",
+       "completedService": 40,
     }
   ],
   "categories": [
