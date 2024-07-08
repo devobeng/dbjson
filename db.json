@@ -15,7 +15,7 @@
       "ratingAverage": 4,
       "totalRatingCount": 1000,
       "completedService": 20,
-      "image": "https://via.placeholder.com/150"
+      "image": "https://via.placeholder.com/300x200"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
       "views": 100,
       "ratingAverage": 4.5,
       "totalRatingCount": 300,
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 30,
       "category": "Painting",
       "serviceType": "Office Cleaning"
@@ -48,7 +48,7 @@
       "totalRatingCount": 1000,
       "serviceType": "Office Cleaning",
       "category": "Plumbing",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 24
     },
     {
@@ -65,7 +65,7 @@
       "totalRatingCount": 1000,
       "serviceType": "Office Cleaning",
       "category": "Plumbing",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 40
     },
     {
@@ -82,7 +82,7 @@
       "totalRatingCount": 1000,
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 10
     },
     {
@@ -99,7 +99,7 @@
       "totalRatingCount": 1000,
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 18
     },
     {
@@ -116,7 +116,7 @@
       "serviceType": "Home Cleaning",
       "category": "Cleaning",
       "totalRatingCount": 1000,
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 19
     },
     {
@@ -133,7 +133,7 @@
       "category": "Logistics",
       "ratingAverage": 4.5,
       "totalRatingCount": 1000,
-      "image": "https://via.placeholder.com/150",
+      "image": "https://via.placeholder.com/300x200",
       "completedService": 40
     }
   ],
